@@ -6,7 +6,7 @@
       <retriever class="org.jenkinsci.plugins.workflow.libs.SCMSourceRetriever">
         <scm class="jenkins.plugins.git.GitSCMSource" plugin="git@3.8.0">
           <id>9e59f038-67fa-4ae3-81ee-05e3e1fdce1d</id>
-          <remote>https://github.com/rhappdev/shared-jenkins-pipelines.git</remote>
+          <remote>https://github.com/opokumanu/shared-jenkins-pipelines.git</remote>
           <credentialsId></credentialsId>
           <traits>
             <jenkins.plugins.git.traits.BranchDiscoveryTrait/>
