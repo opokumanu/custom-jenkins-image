@@ -12,7 +12,7 @@
     &lt;mirror&gt;
       &lt;id&gt;Nexus&lt;/id&gt;
       &lt;name&gt;Nexus Public Mirror&lt;/name&gt;
-      &lt;url&gt;http://nexus-dcawley-xpaas.apps.na311.openshift.opentlc.com/content/groups/public/&lt;/url&gt;
+      &lt;url&gt;http://nexus-omanu-xpass.apps.na311.openshift.opentlc.com/content/groups/public/&lt;/url&gt;
       &lt;mirrorOf&gt;*&lt;/mirrorOf&gt;
     &lt;/mirror&gt;
   &lt;/mirrors&gt;
